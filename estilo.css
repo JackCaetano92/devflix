@@ -1,0 +1,36 @@
+*{padding:0; margin:0; vertical-align:baseline; list-style:none; border:0}
+
+body{background-color: #1A1E27; background-image: linear-gradient(rgb(255, 255, 255), rgb(0, 0, 0));}
+
+p, span{color: rgb(247, 238, 238);}
+
+span{font-size: 16px; font-weight: bold;}
+
+.logo{color: red; font-weight: bold; font-style: italic; font-size: 40px;}
+
+header{opacity: 0.7; position: absolute;}
+
+.rodape{text-align: center; padding: 10px;}
+
+i{margin: 0 8px; font-size: 25px;}
+
+button >span{color: black; font-weight: 400;}
+
+.centralizarvert{display: table-cell; text-align: center; vertical-align: middle; padding-left: 10px;}
+
+.nomeserie{font-size: 50px; font-weight: 500;}
+
+.play, .info{border-radius: 5px; padding: 9px 20px; margin: 3px;}
+
+.topodescricao{width: 40%;}
+
+.topo{
+    background-image: url("imgcode.jpg");
+    background-size: cover; 
+    width: auto;
+    height: 600px;
+    padding-left: 5%;
+    padding-top: 10%; 
+}
+
+footer {padding-top: 2%;}
